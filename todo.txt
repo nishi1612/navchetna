@@ -1,3 +1,4 @@
 ToDo file.
 1. Make the website
 2. Design the database.
+3. Demo the product.
