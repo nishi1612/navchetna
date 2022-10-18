@@ -1,2 +1,5 @@
 ToDo file.
-1. Make the website
+1. Get the base design ready
+2. Choose the programming language based on design and function requirements: React, Angular, Django
+3. Check deployment options
+
